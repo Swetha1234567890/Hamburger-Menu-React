@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+
+.logo-img {
+  margin: 20px;
+}
